@@ -16,3 +16,8 @@ Outputs
 
 Outputs
 - "employees_by_role_by_year" table in a MySQL database
+
+`shopify_orders.ipynb`: script used with Crontab to pull order data into DB on daily basis.
+
+Outputs
+- daily updates to orders table in shopify schema
