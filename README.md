@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository exists to publicly showcase examples from my data engineering work. The vast majority of my work is housed in private repositories, as it is completed for clients of [Brocade Studio](www.brocade.studio), or for [TropicSport](www.tropicsport.com).
+This repository exists to publicly showcase examples from my data engineering work. The vast majority of my work is housed in private repositories, as it is completed for clients of [Brocade Studio](https://www.brocade.studio), or for [TropicSport](https://www.tropicsport.com).
 
 ## Files
 
