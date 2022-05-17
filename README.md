@@ -17,6 +17,11 @@ Outputs
 Outputs
 - "employees_by_role_by_year" table in a MySQL database
 
+`gdrive_metadata_request.ipynb`: script used to create a table file names, file ids, and parent file ids from a gdrive folder.
+
+Outputs
+- "files_list.csv"
+
 `shopify_orders.ipynb`: script used with Crontab to pull order data into DB on daily basis.
 
 Outputs
